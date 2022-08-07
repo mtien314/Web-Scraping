@@ -1,1 +1,1 @@
-Scaping Avatar github
+Scraping Avatar github
